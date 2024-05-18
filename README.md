@@ -31,6 +31,12 @@ Our DApp provides a transparent and secure platform for users to transfer funds 
     - Hardcoded addresses ensure reliability and trust in the destination of the funds.
     - Supports multiple users making transactions to the same or different parties concurrently.
 
+## Tech Stack
+- Rust: Backend logic and smart contract development.
+- Soroban SDK: Framework for building decentralized applications on the Stellar network.
+- JavaScript: General-purpose scripting language for web development.
+- Next.js/React: Front-end framework and library for building the user interface.
+
 ## Example Scenario
 
 1. *User Onboarding*:
@@ -79,6 +85,14 @@ Helps emerging political parties gain financial support.
 Reduces the dominance of well-funded entities, promoting a more diverse political environment.
 
 ```
+
+## Tech stacks
+
+- *Frontend*: React
+- *Backend*: Rust with Soroban SDK
+- *Blockchain*: Stellar Network
+- *Database*: IPFS for data storage
+- *Hosting*: Netlify for frontend, Heroku for backend
 
 By providing a user-friendly interface and ensuring the integrity of the transactions through smart contract logic, the DApp facilitates seamless token transfers to the fixed parties, empowering users to interact with and support the parties of their choice.
 
